@@ -1,3 +1,15 @@
+## Following are the stepss to be done while setting up the sandbox :
+
+# We will setup the cluster using this script : 
+   1. We will deploy the cluster 
+   2. We will use perform a bassic ETL job using Hive [Truck Sensor Data Loading & tranforming into resultset]
+   3. Shall Start Spark : Theory | usecasse | memory processing | benifits of using spark over hadoop
+   4. ETL Demo using PySpark
+   
+   We will end here..
+   
+
+
 # Install HDP 3.0.1 Sandbox Through Docker on AWS
 
 This is a summary of the official HDP tutorial https://hortonworks.com/tutorial/sandbox-deployment-and-install-guide/section/3/
